@@ -1,4 +1,4 @@
-# WEB-PROJECTS
-Web Projects based on Java Language
-It includes the working on different Technology such as SpringBoot , Gradle , MYSQL , Postman
-It contains the implementation based on Crud Application using RestApi
+## this  repository contains the Projects based on Java Language
+it will helpfull for the college students whom want to show a mini project.
+Even in this i explained different project modules
+which defines its own functionality.
